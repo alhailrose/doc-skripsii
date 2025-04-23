@@ -1,12 +1,14 @@
+
+
 ---
 
 # Dokumentasi API
 
 ## Gambaran Umum
 
-API ini memungkinkan pengguna untuk mendaftar, masuk, dan keluar dari sistem. API ini menyediakan tiga endpoint utama:  
-1. **/signup** - Mendaftar pengguna baru.  
-2. **/signin** - Memvalidasi kredensial pengguna dan menghasilkan token akses.  
+API ini memungkinkan pengguna untuk mendaftar, masuk, dan keluar dari sistem. API ini menyediakan tiga endpoint utama:
+1. **/signup** - Mendaftar pengguna baru.
+2. **/signin** - Memvalidasi kredensial pengguna dan menghasilkan token akses.
 3. **/signout** - Keluar dari sistem dengan membatalkan token autentikasi.
 
 ## Deskripsi Endpoint
